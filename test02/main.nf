@@ -20,6 +20,6 @@ process convertToUpper {
   """
 }
 
-workflow {
+workflow helloWorld02 {
   splitLetters | flatten | convertToUpper | view { it.trim() }
 }
