@@ -16,3 +16,4 @@ process sayHello {
 
 workflow helloWorld01 {
   Channel.of(params.str) | sayHello | view
+}
