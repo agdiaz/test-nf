@@ -1,2 +1,0 @@
-2023-01-23 11:19:10	-	disturbed_kimura	-	46d37d2d57e8daea5d4711134efcc7c2	86254153-2389-4893-be18-01b46b2f821d	nextflow run main.nf -entry helloWorld01
-2023-01-23 11:19:54	1.6s	prickly_engelbart	OK	3c64e6d1643b3c8717e48f7870185a71	0d6ed0d7-568b-44fb-a9d3-0908a6ae255a	nextflow run main.nf -entry helloWorld01
